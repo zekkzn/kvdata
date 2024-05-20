@@ -760,12 +760,6 @@
     }
   },
   {
-    "key": "activeusers",
-    "value": {
-      "activeusers": 16
-    }
-  },
-  {
     "key": "adastealer",
     "value": {
       "username": "adastealer",
@@ -7053,12 +7047,6 @@
       "discordID": "594063982873149456",
       "userID": "0444",
       "isActive": "0"
-    }
-  },
-  {
-    "key": "totalusers",
-    "value": {
-      "totalusers": 808
     }
   },
   {
